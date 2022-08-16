@@ -1,0 +1,15 @@
+*{
+    font-family: arial;
+    text-align: center;
+    
+}
+
+.head1{ 
+ border: 2px solid;
+ text-align: center;
+ transform: translateY(250px);
+ background-color: aliceblue;
+}
+body{
+    background-image:url(pattern.png);
+}
